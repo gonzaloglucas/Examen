@@ -4,7 +4,7 @@
 
 - 2 La visualización de datos abarca tanto las herramientas finales como Datawrapper, como el propio Microsoft Excel que hace a la vez de visualizador. En este aspecto, depende de la habilidad del periodista para innovar y presentar la información de forma atractiva. Todo lo que implique representación de una investigación con bases de datos. Aunque sea la coda final, siempre debe requerir un tratamiento especial puesto que es la fase final de nuestra prodcción personal y lo que en definitiva consume el ciudadano en prensa.
 
-- 4 The Guardian fue y sigue siendo uno de los medios de comunicación pioneros en el periodismo de datos. ¡Si leemos el código fuente de su página web theguardian.com podremos ver sus mensajes ocultos!
+- 4 The Guardian fue y sigue siendo uno de los medios de comunicación pioneros en el periodismo de datos. ¡Si leemos el código fuente de su página web www.theguardian.com podremos ver sus mensajes ocultos!
 
 - 5 Un lenguaje informático es todo aquel que pueda entender un ordenador. Hemos visto varios, el más importante y con el que trabajan las Webs es el lenguaje HTML5. Por otro lado, existe el lenguaje Markdown no es sino una forma de simplificar el HTML. Este último por ejemplo, es el que hemos empleado a la hora de trabajar desde Github en nuestros repositorios, aunque la visualización final sea siempre con HTML.
 
